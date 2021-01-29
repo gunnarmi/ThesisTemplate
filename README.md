@@ -1,2 +1,2 @@
 # ThesisTemplate
-Generic thesis template for LaTeX, Microsoft Wors, and LibreOffice Writer
+Generic thesis templates for LaTeX, Microsoft Word, and LibreOffice Writer
